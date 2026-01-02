@@ -6,7 +6,7 @@ print(
 
 #Step 1
 step_1 = input(
-"Type 'left' or 'right?'\n"
+"Type \"left\" or \"right\"`?\n"
 ).lower() # Main input of Step 1
 
 print(step_1)
@@ -17,7 +17,7 @@ if step_1 == "left":
     )
     # Step 2
     step_2 = input(
-        "Type 'wait' to wait for a boat or 'swim' to swim across\n"
+        "Type \"wait\" to wait for a boat or \"swim\" to swim across\n"
     ).lower()  # Main input of Step 2
 
     if step_2 == "wait":
@@ -26,7 +26,7 @@ if step_1 == "left":
         # Step 3
         step_3 = input(
             "You arrive at the island unharmed. There is a house with 3 doors.\n"
-            "One red, one yellow and one blue.\n"
+            "One \"red\", one \"yellow\" and one \"blue\".\n"
             "Which colour do you choose?\n"
         ).lower()
         if step_3 == "yellow":
