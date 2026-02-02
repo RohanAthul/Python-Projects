@@ -28,7 +28,7 @@ The script follows a four-step process to ensure the password is both customized
 ## Running the App
 The script is cross-platform and will run on Windows, macOS, and Linux.
 
-## Linux/macOS Execution
+#### Linux/macOS Execution
 
 - Open your terminal.
 
@@ -38,7 +38,7 @@ The script is cross-platform and will run on Windows, macOS, and Linux.
 
     - python3 PyPasswordGenerator.py
 
-## Windows Execution
+#### Windows Execution
 
 - Open Command Prompt or PowerShell.
 
